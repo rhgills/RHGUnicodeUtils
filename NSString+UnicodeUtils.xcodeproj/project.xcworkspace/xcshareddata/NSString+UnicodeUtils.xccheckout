@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>19A2AC0E-6FD1-4B78-AE31-C0FC1E32E2F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NSString+UnicodeUtils</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E90D89B-79A0-44B0-8954-DEB7CF971817</key>
+		<string>ssh://github.com/rhgills/RHGUnicodeUtils.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NSString+UnicodeUtils.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E90D89B-79A0-44B0-8954-DEB7CF971817</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/rhgills/RHGUnicodeUtils.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E90D89B-79A0-44B0-8954-DEB7CF971817</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E90D89B-79A0-44B0-8954-DEB7CF971817</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RHGUnicodeUtils</string>
+		</dict>
+	</array>
+</dict>
+</plist>

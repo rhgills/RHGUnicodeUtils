@@ -14,8 +14,7 @@
 {
     __block NSUInteger length = 0;
     
-    NSRange fullRange = NSMakeRange(0, [self length]);
-    [self enumerateSubstringsInRange:fullRange options:NSStringEnumerationByComposedCharacterSequences usingBlock:^(NSString *substring, NSRange substringRange, NSRange enclosingRange, BOOL *stop) {
+    [self enumerateComposedCharactersUsingBlock:^(NSString *character) {
         length++;
     }];
     
